@@ -43,11 +43,6 @@ OpenAI API • LLMs • Prompt Engineering
 ### Systems
 Linux • Git • Bash • Computer Architecture
 
-### Frontend
-HTML • CSS • JavaScript
-
-### Databases
-MySQL • SQLite
 
 ---
 
@@ -80,7 +75,6 @@ MySQL • SQLite
 ## 📈 GitHub Analytics
 
 - GitHub Stats
-- GitHub Streak
 - Top Languages
 - Contribution Graph
 
@@ -90,7 +84,7 @@ MySQL • SQLite
 
 - Build a functional Operating System
 - Learn Kernel Development
-- Master C
+- Master python
 - Build AI Applications
 - Contribute to Open Source
 - Complete Advanced System Programming
